@@ -1,6 +1,10 @@
 # file-browser
 
-A file browser with the basic expected features, along with some less usual ones. Supported on Windows, MacOS and GNU/Linux. Written in Python, with a Tkinter GUI.
+A file browser with the basic expected features, along with some less usual ones. Supported on Windows, macOS and GNU/Linux. Written in Python, with a Tkinter GUI.
+
+
+## Screenshots
+<img src="images/filebrowser.png" width="233" title="Filebrowser - general options">
 
 ## Getting Started
 
